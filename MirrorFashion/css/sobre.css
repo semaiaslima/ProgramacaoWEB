@@ -1,6 +1,6 @@
 body {
     font-family: "Arial", "Helvetica", sansserif;
-    border: 1px solid black;
+    border: 1px solid #333333;
     color: #333333;
     font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
     }
@@ -30,6 +30,7 @@ body {
                     }
                     figcaption {
                     font-style: italic;
+                    
                     }
                     
 
