@@ -1,0 +1,37 @@
+body {
+    font-family: "Arial", "Helvetica", sansserif;
+    border: 1px solid black;
+    color: #333333;
+    font-family: "Lucida Sans Unicode","Lucida Grande", sans-serif;
+    }
+    p {
+        text-align: left;
+        }
+        p {
+            letter-spacing: 1px; /* tamanho do espaço
+            entre cada letra */
+            word-spacing: 5px; /* tamanho do espaço
+            entre cada palavra */
+            text-indent: 3px; /* tamanho da margem da
+            primeira linha do texto */
+            }
+            
+            h1 {
+                background-image: url(img/sobre-background.png);
+                border-bottom: 2px solid #333333;
+                }
+            h2 {
+                border-bottom: 2px solid #333333;
+                }    
+                figure {
+                    background-color: #F2EDED;
+                    border: 1px solid #ccc;
+                    text-align: center;
+                    }
+                    figcaption {
+                    font-style: italic;
+                    }
+                    
+
+                    
+                                    
